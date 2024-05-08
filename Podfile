@@ -6,5 +6,4 @@ target 'Movie' do
   use_frameworks!
 
   # Pods for Movie
-  pod 'SDWebImage', '~> 5.0'
 end
